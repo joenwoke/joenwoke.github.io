@@ -6,4 +6,8 @@ body {
 .container {
     background-color: royalblue;
     color: white;
+    border: 10px solid peachpuff;
+    padding: 30px;
+    margin: 50px auto;
+    width: 70%;
 }

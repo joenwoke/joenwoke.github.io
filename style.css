@@ -1,8 +1,9 @@
 body {
-    background-color: blue;
+    background-color: peachpuff;
     font-family: Arial, sans-serif;
 }
 
 .container {
-    background-color: peachpuff;
+    background-color: royalblue;
+    color: white;
 }

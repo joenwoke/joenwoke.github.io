@@ -6,10 +6,10 @@ body {
 .container {
     background-color: royalblue;
     color: white;
-    border: 10px solid peachpuff;
-    padding: 30px;
-    margin: 50px auto;
-    width: 70%;
+    padding: 20mm;
+    margin: 20px auto;
+    width: 200mm;
+    height : 170mm;
 }
 
 h1 {
